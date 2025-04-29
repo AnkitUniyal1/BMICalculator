@@ -14,7 +14,8 @@ This is a simple Body Mass Index (BMI) calculator built in a Jupyter Notebook us
 - Applied the BMI formula to compute the index
 - Used conditional statements to categorize the result
 - Displayed the result in a clear, friendly format
-![Screenshot 2025-04-29 095855](https://github.com/user-attachments/assets/979174b3-8788-4193-be5a-9165ea895440)
+- 
+  ![Screenshot 2025-04-29 095855](https://github.com/user-attachments/assets/979174b3-8788-4193-be5a-9165ea895440)
 
 ---
 
